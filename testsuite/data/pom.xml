@@ -17,7 +17,7 @@
   <properties>
     <maven.compiler.release>${java.version}</maven.compiler.release>
     <maven.compiler.target>${java.version}</maven.compiler.target>
-    <quarkus.platform.version>3.7.3</quarkus.platform.version>
+    <quarkus.platform.version>3.12.2</quarkus.platform.version>
     <kotlin.version>1.9.22</kotlin.version>
     <quarkus.package.add-runner-suffix>false</quarkus.package.add-runner-suffix>
     <java.version>17</java.version>
